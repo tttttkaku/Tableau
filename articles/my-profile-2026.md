@@ -1,3 +1,11 @@
+---
+title: "自己紹介サイトを作成・公開しました！"
+emoji: "🐙"
+type: "tech"
+topics: ["github", "profile"]
+published: true
+slug: "my-profile-2026"  
+---
 # 自己紹介サイトを作成・公開しました！
 
 ## はじめに
